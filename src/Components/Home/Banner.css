@@ -1,0 +1,8 @@
+.gradiant:after{
+    content:'';
+    position:absolute;
+    left:0; top:0;
+    width:100%; height:100%;
+    display:inline-block;
+    background: linear-gradient(to left , rgba(0,47,75,0.5) 20%,rgba(0, 0, 0, 0.5) 40%); /* W3C */
+}
