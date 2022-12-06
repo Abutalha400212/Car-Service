@@ -24,8 +24,3 @@ Tailwind Components ->
 Icon -> [React Icon](https://react-icons.github.io/react-icons/)
 Toast -> [React Hot Toast](https://react-hot-toast.com/)
 Product Photos -> [Freepic](https://www.freepik.com/)
-
-admin pannel
-
-adminEmail: <abu@talha.com>
-adminPassword: <12345678>
